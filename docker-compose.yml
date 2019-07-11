@@ -1,6 +1,6 @@
 version: '3'
 services:
-  server:
+  openvpn:
     image: mksolutions/openvpn:latest
     restart: always
     cap_add:
