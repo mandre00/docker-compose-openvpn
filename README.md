@@ -8,8 +8,8 @@ Prerequisites: [Install Docker](https://docs.docker.com/engine/installation/) an
 
 1. Clone the Repo
 ```
-git clone https://github.com/tammon/docker-compose-kylemanna-openvpn.git
-cd docker-compose-kylemanna-openvpn
+git clone https://github.com/manule87/docker-compose-openvpn.git
+cd docker-compose-openvpn
 ```
 2. Change the `.env` environment-file to your needs
 ```
