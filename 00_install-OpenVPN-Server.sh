@@ -7,5 +7,5 @@ else
     exit 1
 fi
 
-docker-compose run --rm server ovpn_genconfig -u $PROTO://$HOSTNAME
-docker-compose run --rm server ovpn_initpki
+docker-compose run --rm openvpn ovpn_genconfig -u $PROTO://$HOSTNAME
+docker-compose run --rm openvpn ovpn_initpki
