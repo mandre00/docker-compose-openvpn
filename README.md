@@ -1,5 +1,7 @@
-# docker-compose-kylemanna-openvpn
-Simple script based Docker-Compose usage of kylemanna/openvpn Docker image.
+# docker-compose-openvpn
+FORK from tammon/docker-compose-kylemanna-openvpn
+
+Simple script based Docker-Compose usage of mksolutions/openvpn Docker image.
 Up and running in less than two minutes!
 
 ## Get Started!
